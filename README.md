@@ -1,3 +1,8 @@
+Features
+====
+* Selecting multiple sequence png files and drag on exe to pack them to sprite and plist, compress production png to 256 colors optional.
+* Seperatly compressing draged pngs to 256 colors.
+
 Ongoing
 ====
 * Draging files onto window while launching
