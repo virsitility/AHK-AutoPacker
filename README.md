@@ -1,3 +1,8 @@
+Ongoing
+====
+* Draging files onto window while launching
+* 
+
 Updates
 ====
 * 2017/02/10 1.1
